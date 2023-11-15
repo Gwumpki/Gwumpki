@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katia Timm</h1>
-<h3 align="center">An aspiring full-stack developer and TripleTen student from the United States</h3>
+<h3 align="center">I'm a TripleTen student and aspiring full-stack developer from the United States</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
